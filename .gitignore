@@ -33,3 +33,9 @@
 *.opensdf
 *.sdf
 *.suo
+*.log
+*.lastbuildstate
+*.tlog
+*.idb
+*.pdb
+*.ilk
